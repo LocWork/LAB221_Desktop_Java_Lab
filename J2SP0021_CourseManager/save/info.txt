@@ -1,0 +1,7 @@
+SWE | Software engineering | 2
+PRJ | Programing | 2
+DB202 | Data Base | 4KND_202 | Kid next door | 3BUFF | BOOF | 3
+Hello | Hello world | 0
+New | Test | 0
+KND_201 | Helo | 3
+PRJ_2023 | Pro | 22
